@@ -1,0 +1,36 @@
+<!doctype html>
+
+<title> Introduction Page </title>
+
+<head> <h1><font color="#B40404"> Monika Oliver </font> </h1> </head>
+   
+<br>
+    <body>
+        <p> Monika Oliver grew up in Wisconsin and currently lives in Brooklyn, New York.  She studies photography at the Fashion Institute of Technology in Manhattan, and has a passion for both film and digital photography. </p> </body>
+<br> 
+<div>
+    <body>
+    <left>
+        <font color="#01A9DB"> She used to look like <b>this:</b></font> </left>
+          <br>
+        <left>
+            <img src="file:///Users/monika/Desktop/mullet.jpg.png" width =300> </left>  
+        <br>
+        <left> 
+        <font color="#01A9DB"> Now she looks like <b>this:</b></font>
+        </left> <br>
+        <left> <img src="images/me.jpg" width=300>  </left>
+      
+
+    </body>
+     </div>
+    <br>
+    <a href="http://www.monikaoliver.com/" target="_blank">This is a link to her website.</a>
+    <br>
+<p> <center> 
+    <blockquote cite:"https://www.brainyquote.com/quotes/authors/d/david_bowie.html"> <italic>I don't know where I'm going from here, but I promise it won't be boring.</italic>
+    </blockquote>
+    -David Bowie
+    </center> </p>
+    
+    <!--Hopefully this worked, is there a way to change fonts without using CSS? Also, is this how we're supposed to upload the homework?> 
